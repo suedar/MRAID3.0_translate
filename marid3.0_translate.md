@@ -1,25 +1,19 @@
----
-title: MRAID 3.0_translate
-date: 2017-11-19
-tags:
----
 
-  
 ![iab](http://oz3on0sof.bkt.clouddn.com/iab.jpg)
   
-#移动富媒体互动广告标准(MRAID)
+# 移动富媒体互动广告标准(MRAID)
 
-##VERSION3.0  
+## VERSION3.0  
  
-##7月 2017
+## 7月 2017
  
-#移动富媒体互动广告标准 (MRAID) 版本3.0
+# 移动富媒体互动广告标准 (MRAID) 版本3.0
  
 MRAID 版本 3.0 (MRAID 3.0) 具有重要的新功能, 可以提高用户的广告体验。新的 MRAID 使广告能够测量可见和可, 检测 MRAID 环境, 并获取位置数据以提供最佳的体验。此外, 还有当处于广告加载中的向导, 以便向用户展示广告。视频播放器的广告接口定义 (VPAID) MRAID 的附录现在已完全包含在 MRAID 规范中。
  
 本 MRAID 归 iab科技实验室 (IAB Tech Lab) 移动富媒体互动广告标准(MRAID)工作小组版权所有。
  
-##关于iab科技实验室
+## 关于iab科技实验室
  
 实验室技术研究室是一个独立的、国际性的、研究和开发的联合体, 负责生产和帮助公司实施全球工业技术标准。由数字出版商和广告技术公司以及市场营销、机构和其他在互动营销领域有兴趣的公司组成, 实验室的技术实验的目标是减少与数字广告和市场营销相关的摩擦。供应链, 同时有助于安全和安全的产业增长。
  
@@ -27,8 +21,11 @@ MRAID 版本 3.0 (MRAID 3.0) 具有重要的新功能, 可以提高用户的广�
 下列实验室成员公司参加了上述工作组: 
 
 AccuWeather.com         	     DoubleVerify 	        Shazam 
+
 AdColony 	                     Flashtalking 	        Sizmek 
+
 Adform 	                         FOX Networks Group 	Taboola 
+
 AdGear Technologies, Inc. 	     FreeWheel              The Media Trust Company 
 Adobe 	                         Google 	            The New York Times Company 
 Adsiduous Media 	             Gruuv Interactive 	    Thinknear by Telenav 
