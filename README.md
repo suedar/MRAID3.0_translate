@@ -3,7 +3,7 @@ marid_3.0的翻译:)
 
 原文地址来自于:[Mobile Rich Media Ad Interface Definitions (MRAID)](https://www.iab.com/guidelines/mobile-rich-media-ad-interface-definitions-mraid/)
 
-友情连接：
+友情链接：
 [marid 测试页](http://webtester.mraid.org/)
 
 [marid范例地址1](https://wiki.operamediaworks.com/display/AMS/MRAID+Sample+Ads)
